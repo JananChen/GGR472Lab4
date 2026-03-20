@@ -8,4 +8,4 @@ This repository contains files which include code that create a webmap showing t
 - `style.css`: CSS file for positioning the map interface
 - `script.js`: JavaScript file to include code that creates and visualizes and hexgrid map based on the collision data, along with map elements such as a legend and layer visibility
 
-# Link to the website: https://jananchen.github.io/GGR472Lab3/
+# Link to the website: https://jananchen.github.io/GGR472Lab4/
