@@ -33,7 +33,7 @@ let collisions = { // create empty collisions variable with features
     'type': 'FeatureCollection',
     'features': []
 };
-fetch('https://raw.githubusercontent.com/JananChen/GGR472Lab3/main/data/pedcyc_collision_06-21.geojson') // get the collision data
+fetch('https://raw.githubusercontent.com/JananChen/GGR472Lab4/main/data/pedcyc_collision_06-21.geojson') // get the collision data
     .then(response => response.json())
     .then(response => {
         console.log(response); // check response in console
